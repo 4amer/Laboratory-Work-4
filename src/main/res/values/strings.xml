@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">LB4</string>
+    <string-array name="colors">
+        <item>Красный</item>
+        <item>Жёлтый</item>
+        <item>Синий</item>
+    </string-array>
 </resources>
